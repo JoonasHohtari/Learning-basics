@@ -1,0 +1,14 @@
+D:\GitRepos\Practices\CS\bin\Debug\net7.0\CS.exe
+D:\GitRepos\Practices\CS\bin\Debug\net7.0\CS.deps.json
+D:\GitRepos\Practices\CS\bin\Debug\net7.0\CS.runtimeconfig.json
+D:\GitRepos\Practices\CS\bin\Debug\net7.0\CS.dll
+D:\GitRepos\Practices\CS\bin\Debug\net7.0\CS.pdb
+D:\GitRepos\Practices\CS\obj\Debug\net7.0\CS.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepos\Practices\CS\obj\Debug\net7.0\CS.AssemblyInfoInputs.cache
+D:\GitRepos\Practices\CS\obj\Debug\net7.0\CS.AssemblyInfo.cs
+D:\GitRepos\Practices\CS\obj\Debug\net7.0\CS.csproj.CoreCompileInputs.cache
+D:\GitRepos\Practices\CS\obj\Debug\net7.0\CS.dll
+D:\GitRepos\Practices\CS\obj\Debug\net7.0\refint\CS.dll
+D:\GitRepos\Practices\CS\obj\Debug\net7.0\CS.pdb
+D:\GitRepos\Practices\CS\obj\Debug\net7.0\CS.genruntimeconfig.cache
+D:\GitRepos\Practices\CS\obj\Debug\net7.0\ref\CS.dll

@@ -1,0 +1,14 @@
+D:\GitRepos\Practices\CS\basics\GPACalc\obj\Debug\net7.0\GPACalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepos\Practices\CS\basics\GPACalc\obj\Debug\net7.0\GPACalc.AssemblyInfoInputs.cache
+D:\GitRepos\Practices\CS\basics\GPACalc\obj\Debug\net7.0\GPACalc.AssemblyInfo.cs
+D:\GitRepos\Practices\CS\basics\GPACalc\obj\Debug\net7.0\GPACalc.csproj.CoreCompileInputs.cache
+D:\GitRepos\Practices\CS\basics\GPACalc\bin\Debug\net7.0\GPACalc.exe
+D:\GitRepos\Practices\CS\basics\GPACalc\bin\Debug\net7.0\GPACalc.deps.json
+D:\GitRepos\Practices\CS\basics\GPACalc\bin\Debug\net7.0\GPACalc.runtimeconfig.json
+D:\GitRepos\Practices\CS\basics\GPACalc\bin\Debug\net7.0\GPACalc.dll
+D:\GitRepos\Practices\CS\basics\GPACalc\bin\Debug\net7.0\GPACalc.pdb
+D:\GitRepos\Practices\CS\basics\GPACalc\obj\Debug\net7.0\GPACalc.dll
+D:\GitRepos\Practices\CS\basics\GPACalc\obj\Debug\net7.0\refint\GPACalc.dll
+D:\GitRepos\Practices\CS\basics\GPACalc\obj\Debug\net7.0\GPACalc.pdb
+D:\GitRepos\Practices\CS\basics\GPACalc\obj\Debug\net7.0\GPACalc.genruntimeconfig.cache
+D:\GitRepos\Practices\CS\basics\GPACalc\obj\Debug\net7.0\ref\GPACalc.dll

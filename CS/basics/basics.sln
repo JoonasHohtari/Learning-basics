@@ -7,13 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GPACalc", "GPACalc\GPACalc.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS", "Simplified-GPA-calc\CS.csproj", "{7A162A4B-5F7A-4A98-9B70-8C7565353898}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GPACalc_foreach", "GPACalc_foreach", "{5BF752EF-080B-4FB1-832A-CF7673673A40}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GuidedProject", "GuidedProject", "{07BD4141-CC85-490A-9495-C59528602D3C}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final", "GPACalc_foreach\GuidedProject\Final\Final.csproj", "{A65BB5C2-0B5B-48B2-8F22-B7B7EB07C275}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "GPACalc_foreach\GuidedProject\Starter\Starter.csproj", "{10E994CD-BEC3-4E43-873D-47B7C550D777}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileOrWhile", "DoWhileOrWhile\DoWhileOrWhile.csproj", "{D78656C6-8467-4817-B119-C4D254D7ADCF}"
 EndProject

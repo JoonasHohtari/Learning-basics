@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GPACalc", "GPACalc\GPACalc.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS", "Simplified-GPA-calc\CS.csproj", "{7A162A4B-5F7A-4A98-9B70-8C7565353898}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GuidedProject", "GuidedProject", "{07BD4141-CC85-490A-9495-C59528602D3C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileOrWhile", "DoWhileOrWhile\DoWhileOrWhile.csproj", "{D78656C6-8467-4817-B119-C4D254D7ADCF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetApplication", "PetApplication\PetApplication.csproj", "{21B8D399-C5DC-40CE-838E-E91DB0C9B45B}"
@@ -57,12 +55,13 @@ Global
 		{DB68508D-7332-4EAC-981C-3A2DA61529F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB68508D-7332-4EAC-981C-3A2DA61529F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB68508D-7332-4EAC-981C-3A2DA61529F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16532561-DDE4-49AC-BB49-BE41759841A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16532561-DDE4-49AC-BB49-BE41759841A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16532561-DDE4-49AC-BB49-BE41759841A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16532561-DDE4-49AC-BB49-BE41759841A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{07BD4141-CC85-490A-9495-C59528602D3C} = {5BF752EF-080B-4FB1-832A-CF7673673A40}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {70869023-FF0F-4C53-98A3-74866EECDDD9}
